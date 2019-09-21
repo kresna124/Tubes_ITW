@@ -1,0 +1,18 @@
+html
+https://getbootstrap.com/docs/3.3/
+Background jumbotron
+https://www.pptgrounds.com/abstract/5559-blue-polygonal-backgrounds
+background body
+http://www.shivafoundation.org.uk/from-the-private-sector-to-civil-society-by-nishma-jethwa/
+icon facebook
+https://www.iconfinder.com/icons/287801/facebook_icon
+icon youtube
+https://www.iconfinder.com/icons/287604/youtube_icon#size=128
+icon ig
+https://www.iconfinder.com/icons/287783/instagram_icon#size=128
+icon steam
+https://www.iconfinder.com/icons/287622/steam_icon#size=128
+icon google+
+https://www.iconfinder.com/icons/287793/google_icon#size=128
+hosting
+https://kresna-website.000webhostapp.com/index.html

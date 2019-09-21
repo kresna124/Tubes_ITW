@@ -1,0 +1,89 @@
+html{
+	position: relative;
+}
+body{
+	margin-bottom: 400px;
+	background-image: url(../../aset/img/gambar1.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	color: black;
+}
+.jumbotron {
+	margin-top: 20px;
+	height: 680px;
+	background-image: url(../../aset/img/gambar3.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 -100px;
+	color: black;
+}
+.jumbotron img{
+	width: 200px;
+	border: 5px solid white;
+	box-shadow: 1px 1px 10px rgb(0,0,0);
+	margin-top: 150px;
+
+}
+.jumbotron h1, .jumbotron p {
+	text-shadow: 1px 1px 10px rgb(255,255,255);
+}
+hr {
+	width: 250px;
+	border-top: 3px solid #999;
+}
+#kemampuan img{
+	width: 150px;
+	border: 5px solid lightblue;
+	border-radius: 20%;
+	box-shadow: 1px 1px 10px rgb(0,0,0);
+
+}
+#kemampuan p {
+	background-color: white;
+	border: 5px solid lightblue;
+	border-radius: 10%;
+	box-shadow: 1px 1px 10px rgb(0,0,0);
+}
+#kemampuan #nama{
+	color: red;
+
+}
+#kemampuan #tgl{
+	color: #ff9000;
+}
+#kemampuan .sekolah{
+	color: blue;
+}
+.atas{
+	margin-top: 50px;
+}
+section{
+	 min-height: 650px;
+}
+
+h2{
+	text-shadow: 1px 1px 10px rgb(255,255,255);
+} 
+
+footer{
+	position: absolute;
+	width: 100%;
+	height: 130px;
+	bottom: 0;
+	background-color: #333;
+	padding-top: 30px;
+}
+
+		
+footer #nama{
+		color: #aaa;
+		font-size: 0.9em;
+}
+footer i {
+	color: salmon;
+}
+footer #gambarfooter{
+	width: 50px;
+	height: 50px;
+
+}
